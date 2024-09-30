@@ -3,4 +3,5 @@ db.connection.string=jdbc:mysql://localhost/estore
 db.connection.username=root
 db.connection.password=root123
 app.welcome=welcome to My app
+app.calculatefare=this is a demo display...and you have succecded. 
 app.greeting=this is a demo for config server capabilities
